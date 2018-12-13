@@ -4,6 +4,5 @@ public class Main {
         Person person2 = new Person("Jan","Owakdoukou","11/09/2001");
         Person person1Fake = new Person("Peeter","Roeselare", "000");
 
-
     }
 }
